@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Models.RestaurantInformation>
+
+@using GridMvc.Html
+
+<h3>@ViewBag.Message</h3>
+
+
+<div>
+    @if (Model != null && Model.Count() > 0)
+    {
+
+        <div class="panel panel-primary pre-scrollable">
+
+            @Html.Grid(Model).Named("RestaurantInformation").Columns(columns =>
+       {
+           columns.Add(col => col.Name).Titled("Name");
+           columns.Add(col => col.Country).Titled("Country");
+           columns.Add(col => col.City).Titled("City");
+           columns.Add(col => col.AwardedSince).Titled("AwardedSince");
+       }).WithPaging(5).Sortable();
+
+        </div>
+
+    }
+</div>
+
+
+
