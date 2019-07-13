@@ -1,0 +1,6 @@
+C:\Users\Wenwen.Zhang\Downloads\ISEM-551 (1)\ISEM-551\Models\bin\Debug\Models.dll
+C:\Users\Wenwen.Zhang\Downloads\ISEM-551 (1)\ISEM-551\Models\bin\Debug\Models.pdb
+C:\Users\Wenwen.Zhang\Downloads\ISEM-551 (1)\ISEM-551\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Wenwen.Zhang\Downloads\ISEM-551 (1)\ISEM-551\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Wenwen.Zhang\Downloads\ISEM-551 (1)\ISEM-551\Models\obj\Debug\Models.dll
+C:\Users\Wenwen.Zhang\Downloads\ISEM-551 (1)\ISEM-551\Models\obj\Debug\Models.pdb
