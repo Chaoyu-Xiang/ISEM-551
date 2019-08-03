@@ -19,7 +19,13 @@ namespace BusinessLayer
 
             DataSet ds = new DataSet();
 
-            ds = RestaurantDbAccess.GetDataUsingDB();
+            //2nd assignment
+            //ds = RestaurantDbAccess.GetDataUsingDB();
+
+            //3rd assignment
+            var service = new RestaurantService.RestaurantServiceClient();
+
+            ds = service.GetDataUsingDB();
 
             if (ds.Tables.Count > 0)
             {

@@ -9,3 +9,15 @@ C:\Users\Wenwen.Zhang\Downloads\ISEM-551 (1)\ISEM-551\BusinessLayer\obj\Debug\Bu
 C:\Users\Wenwen.Zhang\Downloads\ISEM-551 (1)\ISEM-551\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
 C:\Users\Wenwen.Zhang\Downloads\ISEM-551 (1)\ISEM-551\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\Wenwen.Zhang\Downloads\ISEM-551 (1)\ISEM-551\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\BusinessLayer\bin\Debug\Models.dll
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\BusinessLayer\bin\Debug\Models.pdb
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\BusinessLayer\obj\Debug\BusinessLayer.pdb
