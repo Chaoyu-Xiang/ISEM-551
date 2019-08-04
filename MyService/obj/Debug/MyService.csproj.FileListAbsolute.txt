@@ -1,0 +1,10 @@
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\MyService\bin\MyService.dll.config
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\MyService\bin\MyService.dll
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\MyService\bin\MyService.pdb
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\MyService\bin\DataLayer.dll
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\MyService\bin\DataLayer.pdb
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\MyService\obj\Debug\MyService.csprojAssemblyReference.cache
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\MyService\obj\Debug\MyService.csproj.CoreCompileInputs.cache
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\MyService\obj\Debug\MyService.csproj.CopyComplete
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\MyService\obj\Debug\MyService.dll
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\MyService\obj\Debug\MyService.pdb

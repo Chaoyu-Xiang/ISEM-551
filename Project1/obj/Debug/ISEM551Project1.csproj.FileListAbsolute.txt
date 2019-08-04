@@ -344,3 +344,4 @@ C:\Users\Wenwen.Zhang\source\repos\ISEM-551\Project1\obj\Debug\ISEM551Project1.c
 C:\Users\Wenwen.Zhang\source\repos\ISEM-551\Project1\obj\Debug\ISEM551Project1.csproj.CopyComplete
 C:\Users\Wenwen.Zhang\source\repos\ISEM-551\Project1\obj\Debug\ISEM551Project1.dll
 C:\Users\Wenwen.Zhang\source\repos\ISEM-551\Project1\obj\Debug\ISEM551Project1.pdb
+C:\Users\Wenwen.Zhang\source\repos\ISEM-551\Project1\bin\BusinessLayer.dll.config
